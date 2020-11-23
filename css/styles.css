@@ -88,7 +88,7 @@ span {
 	background-color: #fff;
 	transition: 1s ease;
 }
-span:hover {
+.page-article-link:hover:after {
 	transform: translateY(50px);	
 }
 .page-footer {
