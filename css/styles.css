@@ -79,8 +79,14 @@ body {
 	margin-top: 20px;
 	font-size: 20px;
 }
-span {
-
+.page-article-link {
+	color: #fff;
+	text-decoration: none;
+	font-size: 22px;
+	font-family: 'Fredericka the Great', cursive;
+}
+.page-article-link:after {
+	content: "";
 	display: block;
 	margin-left: 60px;
 	width: 120px;
